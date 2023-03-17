@@ -1,4 +1,4 @@
-echo
+echo 
 echo
 
 
@@ -18,9 +18,9 @@ pkg install python -y
 
 pkg install python2 -y
 
-pkg install requests
+pkg install requests 
 
-pkg install mechanize
+pkg install mechanize 
 
 pkg install rich
 
@@ -48,7 +48,7 @@ pkg install php -y
 
 pkg install fish -y
 
-pip install astroid
+pip install astroid 
 
 pip install autopep8
 
@@ -56,37 +56,37 @@ pip install certifi
 
 pip install chardet
 
-pip install colorama
+pip install colorama 
 
 pip install future
 
 pip install bs4
 
-pip install rich
+pip install rich 
 
-pip install idna
+pip install idna 
 
-pip install isort
+pip install isort 
 
 pip install lazy-object-proxy
 
-pip install lolcat
+pip install lolcat 
 
-pip install mccabe
+pip install mccabe  
 
-pip install Pillow
+pip install Pillow 
 
-pip install pilo
+pip install pilo 
 
 pip install pip
 
-pip install pycodestyle
+pip install pycodestyle 
 
 pip install pyfiglet
 
 pip install pylint
 
-pip install requests
+pip install requests 
 
 pip install setuptools
 
@@ -104,7 +104,7 @@ pip install wrapt
 
 pip install youtube-dl
 
-pip install mechanize
+pip install mechanize 
 
 apt install ruby -y
 
@@ -117,11 +117,11 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'WELL COME TO ' |lolcat
+figlet -f slant 'Mr-NAYAN' |lolcat
 echo
 echo
-echo
-figlet -f slant 'THE REBEL SQUAD' |lolcat
+echo 
+figlet -f slant 'WELLCOME' |lolcat
 echo
 echo
 echo
