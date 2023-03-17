@@ -117,11 +117,11 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'Mr-NAYAN' |lolcat
+figlet -f slant 'WELL-COME TO' |lolcat
 echo
 echo
 echo 
-figlet -f slant 'WELLCOME' |lolcat
+figlet -f slant 'THE REBEL SQUAD' |lolcat
 echo
 echo
 echo
