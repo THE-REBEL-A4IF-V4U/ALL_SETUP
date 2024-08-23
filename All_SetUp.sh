@@ -121,7 +121,7 @@ figlet -f slant 'WELL-COME TO' |lolcat
 echo
 echo
 echo 
-figlet -f slant 'NASHOKOTA CYBER SQUAD' |lolcat
+figlet -f slant 'THE REBEL SQUAD' |lolcat
 echo
 echo
 echo
