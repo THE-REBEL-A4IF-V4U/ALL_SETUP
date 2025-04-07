@@ -3,7 +3,7 @@ pkg update & pkg upgrade
 
 pkg install git 
 
-git clone https://github.com/ARIF-VAU-TRA233/ALL_SETUP
+git clone https://github.com/THE-REBEL-A4IF-V4U/ALL_SETUP/ALL_SETUP
 
 cd ALL_SETUP
 
